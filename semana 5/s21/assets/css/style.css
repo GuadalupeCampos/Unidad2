@@ -1,0 +1,28 @@
+/* Display */
+
+.display div {
+  border: 1px solid #054cff;
+  background-color: aliceblue;
+  padding: 10px;
+  width: 200px;
+}
+/* Inline */
+.c-inline div {
+  display: inline;
+}
+/* Block */
+.c-block div {
+  display: block;
+}
+/* Inline-block */
+
+.c-inline-block div {
+  display: inline-block;
+}
+/* none */
+.c-none div {
+  display: inline-block;
+}
+#div-none {
+  display: none;
+}
