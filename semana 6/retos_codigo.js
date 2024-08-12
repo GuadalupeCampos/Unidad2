@@ -76,8 +76,10 @@ const reverse = (array) => {
       return edad >= 18;
       };
       console.log(canDriveAndVote(15));
-      console.log(canDriveAndVote(16)); console.log(canDriveAndVote(17));
-      console.log(canDriveAndVote(18)); console.log(canDriveAndVote(20));
+      console.log(canDriveAndVote(16)); 
+      console.log(canDriveAndVote(17));
+      console.log(canDriveAndVote(18)); 
+      console.log(canDriveAndVote(20));
       module.exports = canDriveAndVote;
 
     // Determinar si dos numeros son pares
